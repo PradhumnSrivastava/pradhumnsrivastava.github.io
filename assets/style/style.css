@@ -1,0 +1,25 @@
+body{
+font-family:Arial;
+margin:0;
+background:#0f172a;
+color:white;
+}
+
+nav{
+display:flex;
+justify-content:space-between;
+padding:20px;
+background:black;
+}
+
+.hero{
+text-align:center;
+padding:120px;
+}
+
+.btn{
+background:#3b82f6;
+padding:10px 20px;
+color:white;
+text-decoration:none;
+}
